@@ -1,2 +1,2 @@
 # SVM-Stuff
-All my projects reating to Support Vector Machines
+All my projects relating to Support Vector Machines
